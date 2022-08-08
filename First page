@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"></meta>
+<title>Homepage</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+
+<h1>Ting is here</h1>
+<img src="https://tingtingnonstop.w3spaces.com/cat_thumbs_up.jpg"/>
+<p><h2>How you doing?</h2></p>
+
+<div class="w3-text-blue"><p><h3>關於我 你不想知道的TMI</h3></p></div>
+<div class="w3-container w3-blue">
+<ul>
+    <Li>出生於1993</Li>
+    <Li>畢業於NCCU</Li>
+    <Li>會說三種語言</Li>
+    <Li>有一隻橘色猛獸室友</Li>
+    <Li>在科技產業工作3.5年但完全不會coding</Li>
+</ul>
+</div>
+
+<div class="w3-text-green"><h3>學習動機</h3></div>
+<div class="w3-container w3-green">
+    <ul>
+    <Li>產業趨勢-coding能力已成為現代人的必備知識</Li>
+    <Li>職涯發展-工作上如果可以運用SQL, Script語法可以更輕易掌握需要的Data</Li>
+    </ul>
+    <p>目前工作內容時常仰賴內部工程師抓取資料，希望未來我希望可以自己抓取我需要的資料，並且進一步成為資料工程師！</p>
+</div>
+
+</body>
+</html>
+
+
